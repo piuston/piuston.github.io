@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://piuston.github.io/sitemap.html.gz
+Sitemap: https://piuston.github.io/app/sitemap.html.gz
+Sitemap: https://piuston.github.io/assets/sitemap.html.gz
+Sitemap: https://piuston.github.io/css/sitemap.html.gz
+Sitemap: https://piuston.github.io/includes/sitemap.html.gz
+Sitemap: https://piuston.github.io/item/sitemap.html.gz
+Sitemap: https://piuston.github.io/src/sitemap.html.gz
